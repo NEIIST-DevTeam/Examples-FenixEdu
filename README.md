@@ -23,7 +23,7 @@ This is the API endpoint, where your application will make requests.
 
 `EXAMPLE` is the domain name set by your server.
 
-This is the URL that will be loaded after a user has authenticated. If the domain isn't recognized by DSI, authentication will fail. Luckly for us, our user spaces in Sigma (technically Omega) are all allowed. Therefore, if you serve the page from a group space, it will look something like this:
+This is the URL that will be loaded after a user has authenticated. If the domain isn't recognized by DSI, authentication will fail. Luckly for us, spaces in Sigma (technically Omega) are all allowed. Therefore, if you serve the page from a group space, it will look something like this:
 
 ```
 https://groups.tecnico.ulisboa.pt/~GROUP.daemon/EXAMPLE/index.php
