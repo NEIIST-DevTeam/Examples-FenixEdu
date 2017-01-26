@@ -1,0 +1,5 @@
+# Tokens
+data/.sessions/*
+
+# phpDA configuration
+architecture/phpDA

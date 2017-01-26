@@ -1,0 +1,30 @@
+body {
+  background-color: #353535;
+  color: #FFFFFF;
+}
+
+dl dd {
+  margin-left: 20px;
+}
+
+#logo img {
+  width: 400px;
+  height: auto;
+}
+
+#socialNetworks img {
+  width: 45px;
+  height: auto;
+}
+
+#content {
+  color: #000000;
+ /* padding-left: 10px;
+  padding-right: 10px;*/
+}
+
+#menu {
+  margin-bottom: 0px;
+  margin-top: 5px;
+  border: none;
+}
